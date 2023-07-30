@@ -5,8 +5,11 @@ body {
   
   h1 {
     color: #007bff;
-  }
-  
+    display: block; /* Add this rule to make h1 a block-level element */
+}
+
+h2 {
+    color: #333;
   p {
     color: #333;
   }
