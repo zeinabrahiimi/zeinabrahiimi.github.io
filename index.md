@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Zeinab Rahimi, Prospective PhD Student
 ---
 
 # Hello!
