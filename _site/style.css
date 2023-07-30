@@ -6,13 +6,13 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  background-color: turquoise; /* Turquoise background color */
   line-height: 1.6;
 }
 
-header {
-  background-color: #007bff;
-  color: #fff;
+header, footer {
+  background-color: turquoise;
+  color: #fff; /* White text color */
   text-align: center;
   padding: 1rem;
 }
@@ -48,7 +48,7 @@ section {
 }
 
 h1 {
-  color: #007bff;
+  color: #007bff; /* Blue color for h1 headings */
 }
 
 h2 {
@@ -73,8 +73,8 @@ p {
 
 /* Add styles for the footer */
 footer {
-  background-color: #007bff;
-  color: #fff;
+  background-color: turquoise;
+  color: #fff; /* White text color */
   text-align: center;
   padding: 1rem;
 }

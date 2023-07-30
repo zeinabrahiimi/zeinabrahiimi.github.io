@@ -1,11 +1,11 @@
 ---
-layout: home
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+layout: default
 title: Zeinab Rahimi, Prospective PhD Student
 ---
 
 # Hello!
 
-I am Zeinab Rahimi.
 Welcome to my personal website. Here, I share information about my academic journey and research interests.
 
 ## CV
@@ -27,5 +27,5 @@ Explore my research interests, ongoing projects, and recent publications in the 
 </div>
 
 <footer>
-    <p>Contact me at: your-email@example.com</p>
+    <p>Contact me at: zeinab.rahiimi@gmail.com</p>
 </footer>
