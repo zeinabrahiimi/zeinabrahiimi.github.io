@@ -1,85 +1,13 @@
-/* Reset default margin and padding for all elements */
-* {
-    margin: 0;
-    padding: 0;
-  }
-  
-  body {
-    font-family: Arial, sans-serif;
-    background-color: turquoise; /* Turquoise background color */
-    line-height: 1.6;
-  }
-  
-  header, footer {
-    background-color: turquoise;
-    color: #fff; /* White text color */
-    text-align: center;
-    padding: 1rem;
-  }
-  
-  nav {
-    background-color: #f0f0f0;
-    padding: 0.5rem;
-    display: flex;
-    justify-content: center;
-  }
-  
-  nav ul {
-    list-style: none;
-  }
-  
-  nav li {
-    display: inline-block;
-    margin-right: 1rem;
-  }
-  
-  nav a {
-    color: #333;
-    text-decoration: none;
-    padding: 0.5rem 1rem;
-  }
-  
-  nav a:hover {
-    background-color: #ddd;
-  }
-  
-  section {
-    padding: 2rem;
-  }
-  
-  h1 {
-    color: #007bff; /* Blue color for h1 headings */
-  }
-  
-  h2 {
-    color: #333;
-  }
-  
-  p {
-    color: #333;
-  }
-  
-  /* Add styles for social links */
-  .social-links {
-    text-align: center;
-    margin-top: 2rem;
-  }
-  
-  .social-links a {
-    color: #007bff;
-    font-size: 24px;
-    margin-right: 1rem;
-  }
-  
-  /* Add styles for the footer */
-  footer {
-    background-color: turquoise;
-    color: #fff; /* White text color */
-    text-align: center;
-    padding: 1rem;
-  }
-  
-  footer p {
-    margin-bottom: 0; /* Remove default margin at the bottom */
-  }
-  
+/* Cayman Blog Theme Custom Styles */
+/* Change the background color to your desired color */
+
+/* Original Cayman theme styles */
+/* Copy the following styles from the Cayman theme and paste them here */
+/* Make sure you copy all the relevant styles from the Cayman theme */
+
+/* Change the background color */
+body {
+    background-color: #e6f2ff; /* Light blue background color */
+}
+
+/* Additional custom styles can be added here if needed */
