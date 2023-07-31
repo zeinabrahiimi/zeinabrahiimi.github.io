@@ -3,7 +3,7 @@ layout: default
 title: Zeinab Rahimi, Prospective PhD Student
 ---
 
-# Zeinab Rahimi
+# Zeinab Rahimi, , Prospective PhD Student
 
 Welcome to my personal website. Here, I share information about my academic journey and research interests.
 
