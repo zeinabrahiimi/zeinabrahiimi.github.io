@@ -66,18 +66,18 @@ title: Zeinab Rahimi
     <p style="color: #000;">Here, I share information about my academic journey and research interests.</p>
     
     <h2 style="color: #038e75;">Research Interests</h2>
-    <ul>
-  <li class="mainpart">Computational Linguistics
-    <ul class="subpart">
-      <li>NLP</li>
-      <li>Text Mining</li>
+  <ul style="list-style: none;">
+  <li><strong>Computational Linguistics</strong>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; NLP</li>
+      <li style="margin-bottom: 5px;">&#9702; Text Mining</li>
     </ul>
   </li>
-  <li class="mainpart">Linguistics
-    <ul class="subpart">
-      <li>Corpus Linguistics</li>
-      <li>L2 Quantitative Research</li>
-      <li>L2 Writing</li>
+  <li><strong>Linguistics</strong>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; Corpus Linguistics</li>
+      <li style="margin-bottom: 5px;">&#9702; L2 Quantitative Research</li>
+      <li style="margin-bottom: 5px;">&#9702; L2 Writing</li>
     </ul>
   </li>
 </ul>
@@ -92,8 +92,8 @@ title: Zeinab Rahimi
 
 <!-- Social media links with Font Awesome icons -->
 <div class="social-links">
-      <a href="https://github.com/A" target="_blank"><i class="fab fa-github fa-2x"></i></a>
-      <a href="https://www.linkedin.com/in/A" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+      <a href="https://github.com/zeinabrahiimi" target="_blank"><i class="fab fa-github fa-2x"></i></a>
+      <a href="https://www.linkedin.com/in/zeinab-rahimi" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
       <div class="contact-info">
         <i class="fas fa-envelope"></i> <!-- Envelope icon -->
         <p style="display: inline-block; vertical-align: middle; margin-left: 5px;">Contact me at: zeinab.rahiimi@gmail.com</p>
