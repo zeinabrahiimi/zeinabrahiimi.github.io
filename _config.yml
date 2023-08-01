@@ -1,2 +1,5 @@
-title: Zeinab Rahimi, Prospective PhD Student
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 remote_theme: pages-themes/cayman@v0.2.0
