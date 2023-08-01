@@ -1,123 +1,38 @@
 ---
 layout: default
+title: Zeinab Rahimi, Prospective PhD Student
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Zeinab Rahimi, , Prospective PhD Student
 
-[Link to another page](./another-page.html).
+Welcome to my personal website. Here, I share information about my academic journey and research interests.
 
-There should be whitespace between paragraphs.
+## Research Interests
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- Computational Linguistics
+- Natural Language Processing
+- Text Mining
+- Linguistic Statistical Analyses
 
-# Header 1
+## CV
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Here, you can find my academic CV, which includes details about my educational background, research experience, and publications. [View CV](cv.html)
 
-## Header 2
+## Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Statistics and Advanced Statistics Tests in Applied Linguistics with R
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+In these projects, I have conducted various statistical analyses in the cotnext of Applied Linguistics, implementing these analyses using R, a powerful statistical programming language.
+You can find the code and detailed documentation for this project on my [GitHub](https://github.com/your-github-username/applied-linguistics-statistics). Feel free to explore the repository and provide any feedback or suggestions.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<!-- Social media links with Font Awesome icons -->
+<div class="social-links">
+    <a href="https://github.com/zeinabrahiimi" target="_blank"><i class="fab fa-github fa-2x"></i></a>
+    <a href="https://www.linkedin.com/in/zeinab-rahimi" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+</div>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<footer>
+    <p>Contact me at: <a href="zeinab.rahiimi@gmail.com">zeinab.rahiimi@gmail.com</a></p>
+</footer>
