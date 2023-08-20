@@ -61,19 +61,19 @@ title: ✨ Zeinab Rahimi
 </head>
 <body>
   <div class="main-content">
-    <h1><strong style="color: #0056b3;">Zeinab Rahimi, Prospective PhD Student</strong></h1> <!-- Bold the name here and set color to darker dark blue -->
+    <h1><strong style="color: #0056b3;">Zeinab Rahimi</strong></h1> <!-- Bold the name here and set color to darker dark blue -->
     <h2 style="color: #000;">Welcome!</h2>
-    <p style="color: #000;">Here, I share information about my academic journey and research interests.</p>
+    <p style="color: #000;">I am Zeinab Rahimi, pursuing a Ph.D. position in Linguistics or Computational Linguistics. Here, I share information about my research interests and academic journey.</p>
     
     <h2 style="color: #038e75;">Research Interests</h2>
   <ul style="list-style: none;">
-  <li><strong>• Computational Linguistics</strong>
+  <li><strong>&#8226; Computational Linguistics</strong>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; NLP</li>
       <li style="margin-bottom: 5px;">&#9702; Text Mining</li>
     </ul>
   </li>
-  <li><strong>• Linguistics</strong>
+  <li><strong>&#8226; Linguistics</strong>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; Corpus Linguistics</li>
       <li style="margin-bottom: 5px;">&#9702; L2 Quantitative Research</li>
@@ -85,7 +85,7 @@ title: ✨ Zeinab Rahimi
 
     <h2 style="color: #038e75;">Education</h2>
   <ul style="list-style: none;">
-  <li><strong>•	M.Sc. in TEFL, Iran University of Science and Technology (IUST)</strong>, Tehran, Iran, 2020-2022
+  <li><strong>&#8226;	M.Sc.</strong> in <strong>TEFL</strong>, Iran University of Science and Technology (IUST), Tehran, Iran, 2020-2022
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; <strong>Overall GPA</strong>: 18.27/20 (<strong>4</strong>/4)</li>
       <li style="margin-bottom: 5px;">&#9702; <strong>Master’s Thesis</strong>: Argumentative Writing, Authorial Voice, and Sentiment Analysis in EFL Context: Any Interrelationship? , Grade: 19.05/20</li>
@@ -101,26 +101,40 @@ title: ✨ Zeinab Rahimi
 
     <h2 style="color: #038e75;">Publications</h2>
   <ul style="list-style: none;">
-  <li> <strong>Rahimi, Z.</strong>, Amini Farsani, M., & Minaei Bidgoli, B. (2023). “”. Submitted to the Journal of
+  <li> <strong>Rahimi, Z.</strong>, Amini Farsani, M., & Minaei Bidgoli, B. (2023). “Harnessing the Power of Sentiment Analysis and Authorial Voice to Enrich L2 Argumentative Writing Quality”. Submitted to the Journal of
     </li>
   </ul>
 
 
       <h2 style="color: #038e75;">Work Experience</h2>
   <ul style="list-style: none;">
-  <li> •	Research Assistant under the supervision of Dr. Mohammad Amini Farsani, Foreign Languages Department, Iran University of Science and Technology, 2021- Present</li>
-  <li> • English Teaching, Iran Oxford Language Institute, August – September 2022 </li>
-  <li> •	Workshop Host at IUST Student Scientific Association of Foreign Languages Department, Iran University of Science and Technology, 2021- Present</li>
+<li> <strong>&#8226; Research Assistant</strong> under the supervision of Dr. Mohammad Amini Farsani, Foreign Languages Department, Iran University of Science and Technology, 2021- Present
+  <ul style="list-style: none; margin-left: 1rem;">
+    <li style="list-style-type: circle;">Text Mining and Sentiment Analysis using Python and R</li>
+  </ul>
+</li>
+  <li> <strong>&#8226; English Teaching</strong>, Iran Oxford Language Institute, August – September 2022 </li>
+  <li> <strong>&#8226;	Workshop Host</strong> at IUST Student Scientific Association of Foreign Languages Department, Iran University of Science and Technology, 2021- Present</li>
   </ul>
 
     <h2 style="color: #038e75;">Volunteer Activities</h2>
   <ul style="list-style: none;">
-  <li>• Host for <em>Introduction to Natural Language Processing and Data Entry with NLP Tools</em> Webinar at IUST Student Scientific Association of Foreign Languages Department (December 2021)</li>
-  <li>•	Host for <em>Introduction to Python</em> Webinar at IUST Student Scientific Association of Foreign Languages Department (April 2022)</li>
-  <li>•	Host for <em>“Statistics and Advanced Statistical Tests with R for Applied Linguistics”</em> Webinar at IUST Student Scientific Association of Foreign Languages Department (May 2023)</li>
-  (You can find the code the code in my <a href="https://github.com/your-github-repo">GitHub repository</a>)
-  <li>•	Host for <em>“Text Mining with R-Programming and Tableau for Applied Linguistics”</em> Webinar at IUST Student Scientific Association of Foreign Languages Department (June 2023)</li>
-  <li>•	Host for <em>“Text Mining with Python Using NLTK library for Applied Linguistics”</em> Webinar at IUST Student Scientific Association of Foreign Languages Department (June 2023)</li>
+  <li>&#8226; Host for "<strong><em>Introduction to Natural Language Processing and Data Entry with <a href="https://www.linguisticanalysistools.org/tools.html"> Text Analysis Tools</a> </em></strong>" Workshop at IUST Student Scientific Association of Foreign Languages Department (December 2021)</li>
+  <li>&#8226;	Host for "<strong><em>Introduction to Python</em></strong>" Webinar at IUST Student Scientific Association of Foreign Languages Department (April 2022)</li>
+  <li>&#8226;	Host for "<strong><em>Statistical Tests with R for Applied Linguistics</em></strong>" Workshop at IUST Student Scientific Association of Foreign Languages Department (May 2022)</li>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702;You can find the code the code in my <a href="https://github.com/zeinabrahiimi/Statistics-in-Applied-Linguistics-with-R"> Statistics-in-Applied-Linguistics-with-R GitHub repository</a>.</li>
+    </ul>
+
+  <li>&#8226;	Host for "<strong><em>Text Mining and Sentiment Analysis with R-Programming and Tableau for Applied Linguistics</em></strong>" Workshop at IUST Student Scientific Association of Foreign Languages Department (May 2022)</li>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; You can find the code the code in my <a href="https://github.com/zeinabrahiimi/Text-Mining-and-Sentiment-Analysis-with-R-Applied-Linguistics"> Text-Mining-and-Sentiment-Analysis-with-R-Applied-Linguistics GitHub repository</a>.</li>
+    </ul> 
+  <li>&#8226;	Host for "<strong><em>Text Mining with Python Using NLTK library for Applied Linguistics</em></strong>" Workshop at IUST Student Scientific Association of Foreign Languages Department (May 2022)</li>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; You can find the code the code in my <a href="https://github.com/zeinabrahiimi Text-Mining-with-Python-Applied-Linguistics"> Text-Mining-with-Python-Applied-Linguistics GitHub repository</a>.</li>
+    </ul> 
+  
   </ul>
 
 <h2 style="color: #038e75;">Certifications</h2>
@@ -131,6 +145,63 @@ title: ✨ Zeinab Rahimi
 <li> • <strong> Data Analysis with R Programming </strong>_ Google (September 2021) <a href="https://www.coursera.org/certification/your-coursera-certification" target="_blank">Coursera Certification</a></li>
 
   </ul>
+
+<h2 style="color: #038e75;">Honors and Awards</h2>
+  <ul style="list-style: none;">
+<li>• Ranked 87th among nearly 15000 participants in the Iranian University Entrance Exam for Master’s degree in TEFL, 2020</li>
+
+</ul>
+
+<h2 style="color: #038e75;">Selected Courses</h2>
+  <ul style="list-style: none;">
+<li>• Fall 2020.  <em>Linguistics</em>, Assistant Professor. Mohammad Amini Farsani, Grade: 19.60/20</li>
+<li>• Spring 2021. <em>Research Software</em> (Research Literacy Focus for Applied Linguistics), Assistant Professor. Mohammad Amini Farsani, Grade: 19/20</li>
+<li>• Fall 2022. In-Depth Study of Mixed Method Research (as a supplementary course of <em>Material Development</em>), Assistant Professor. Mohammad Amini Farsani, Grade: 19.25/20 </li>
+<li>• Fall 2022. <em>Technology in English Language Teaching</em>, Visiting Assistant Professor. Mohammad Hossein Norouzi; Grade: 19/20</li>
+</ul>
+
+<h2 style="color: #038e75;">Technical Skills</h2>
+<ul style="list-style: none;">
+  <li><strong>&#8226; Data Analysis and Statistics</strong>:
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; SPSS</li>
+      <li style="margin-bottom: 5px;">&#9702; R Software (Text Mining, Sentiment Analysis)</li>
+    </ul>
+  </li>
+  <li><strong>&#8226; Data Visualization</strong>:
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; Tableau Visualization Software</li>
+    </ul>
+  </li>
+  <li><strong>&#8226; Programming Languages</strong>:
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702;Python (Text Mining by NLTK, Natural Language Toolkit)</li>
+    </ul>
+  </li>
+  <li><strong>&#8226; Linguistic Analysis Tools</strong>:
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; SEANCE (Sentiment Analysis and Cognition Engine)</li>
+      <li style="margin-bottom: 5px;">&#9702; TAALES (Tool for the Automatic Analysis of Lexical Sophistication)</li>
+      <li style="margin-bottom: 5px;">&#9702; TAACO (Tool for the Automatic Analysis of Cohesion)</li>
+      <li style="margin-bottom: 5px;">&#9702; TAALED (Tool for the Automatic Analysis of Lexical Diversity)</li>
+      <li style="margin-bottom: 5px;">&#9702; TAASSC (Tool for the Automatic Analysis of Syntactic Sophistication and Complexity)</li>
+
+    </ul>
+  </li>
+</ul>
+
+<h2 style="color: #038e75;">Language</h2>
+  <ul style="list-style: none;">
+<li>	&#8226; Persian (Native) </li>
+<li>	&#8226; <strong> English (TOFEL)</strong>: <strong>102 </strong> </li>
+<li>	&#8226; Spanish (Beginner) </li>
+ </ul>
+
+<h2 style="color: #038e75;">Hobbies</h2>
+<p style="color: #000;"> When I step away from the academic world, I often immerse myself in English Calligraphy, exercise, and the world of podcasts and audiobooks.</p>
+
+
+
 
 <!-- Social media links with Font Awesome icons -->
 <div class="social-links">
