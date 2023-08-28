@@ -1,3 +1,1 @@
-# zeinabrahiimi.github.io
-
-hello.
+# This repository is related to my personal website!

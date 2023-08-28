@@ -126,9 +126,13 @@ title: ✨ Zeinab Rahimi
       <li style="margin-bottom: 5px;">&#9702;You can find the code in my <a href="https://github.com/zeinabrahiimi/Statistics-in-Applied-Linguistics-with-R"> Statistics-in-Applied-Linguistics-with-R GitHub repository</a>.</li>
     </ul>
 
-  <li>&#8226;	Developed "<strong><em>Text Mining and Sentiment Analysis with R-Programming and Tableau for Applied Linguistics</em></strong>" Project (August 2023)</li>
+  <li>&#8226;	Developed "<strong><em>Text Mining with R-Programming and Tableau for Applied Linguistics</em></strong>" Project (August 2023)</li>
     <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 5px;">&#9702; You can find the code in my <a href="https://github.com/zeinabrahiimi/Text-Mining-and-Sentiment-Analysis-with-R-Applied-Linguistics"> Text-Mining-and-Sentiment-Analysis-with-R-Applied-Linguistics GitHub repository</a>.</li>
+      <li style="margin-bottom: 5px;">&#9702; You can find the code in my <a href="https://github.com/zeinabrahiimi/Text-Mining-with-R-Applied-Linguistics"> Text-Mining-with-R-Applied-Linguistics GitHub repository</a>.</li>
+    </ul> 
+  <li>&#8226;	Developed "<strong><em>Sentiment Analysis with R-Programming Applied Linguistics</em></strong>" Project (August 2023)</li>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; You can find the code in my <a href="https://github.com/zeinabrahiimi/Sentiment-Analysis-with-R-Applied-Linguistics"> Sentiment-Analysis-with-R-Applied-Linguistics GitHub repository</a>.</li>
     </ul> 
   <li>&#8226;	Developed"<strong><em>Text Mining with Python Using NLTK library for Applied Linguistics</em></strong>" Project (August 2023)</li>
     <ul style="list-style-type: none; padding-left: 0;">
@@ -139,10 +143,10 @@ title: ✨ Zeinab Rahimi
 
 <h2 style="color: #038e75;">Certifications</h2>
   <ul style="list-style: none;">
-<li> • <strong> Technology Enriched Teaching</strong>– Arizona State University (March 2021) <a href="https://www.coursera.org/certification/your-coursera-certification" target="_blank">Coursera Certification</a></li>
-<li> • <strong> Programming for Everybody (Getting Started with Python) </strong> _University of Michigan (July 2021) <a href="https://www.coursera.org/certification/your-coursera-certification" target="_blank">Coursera Certification</a></li>
-<li> • <strong> Python Data Structures</strong> _University of Michigan (August 2021) <a href="https://www.coursera.org/certification/your-coursera-certification" target="_blank">Coursera Certification</a></li>
-<li> • <strong> Data Analysis with R Programming </strong>_ Google (September 2021) <a href="https://www.coursera.org/certification/your-coursera-certification" target="_blank">Coursera Certification</a></li>
+<li> • <strong> Teach English Now! Technology Enriched Teaching</strong>– Arizona State University (March 2021) <a href="https://www.coursera.org/account/accomplishments/certificate/ZZBXE3AQH74F" target="_blank">Coursera Certification</a></li>
+<li> • <strong> Programming for Everybody (Getting Started with Python) </strong> _University of Michigan (July 2021) <a href="https://www.coursera.org/account/accomplishments/certificate/TVKECN65874S" target="_blank">Coursera Certification</a></li>
+<li> • <strong> Python Data Structures</strong> _University of Michigan (August 2021) <a href="https://www.coursera.org/account/accomplishments/certificate/B69B9B5MXHRY" target="_blank">Coursera Certification</a></li>
+<li> • <strong> Data Analysis with R Programming </strong>_ Google (September 2021) <a href="https://www.coursera.org/account/accomplishments/certificate/4W7QHZZDUCX2" target="_blank">Coursera Certification</a></li>
 
   </ul>
 
@@ -164,23 +168,23 @@ title: ✨ Zeinab Rahimi
 
 <h2 style="color: #038e75;">Technical Skills</h2>
 <ul style="list-style: none;">
-  <li><strong>&#8226; Data Analysis and Statistics</strong>:
+  <li><strong>&#8226; Data Analysis and Statistics</strong>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; SPSS</li>
       <li style="margin-bottom: 5px;">&#9702; R Software (Text Mining, Sentiment Analysis)</li>
     </ul>
   </li>
-  <li><strong>&#8226; Data Visualization</strong>:
+  <li><strong>&#8226; Data Visualization</strong>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; Tableau Visualization Software</li>
     </ul>
   </li>
-  <li><strong>&#8226; Programming Languages</strong>:
+  <li><strong>&#8226; Programming Languages</strong>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702;Python (Text Mining by NLTK, Natural Language Toolkit)</li>
     </ul>
   </li>
-  <li><strong>&#8226; Linguistic Analysis Tools</strong>:
+  <li><strong>&#8226; Linguistic Analysis Tools</strong>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; SEANCE (Sentiment Analysis and Cognition Engine)</li>
       <li style="margin-bottom: 5px;">&#9702; TAALES (Tool for the Automatic Analysis of Lexical Sophistication)</li>
@@ -211,8 +215,18 @@ title: ✨ Zeinab Rahimi
       <a href="https://www.linkedin.com/in/zeinab-rahimi" target="_blank"><i class="fab fa-linkedin fa-lg"></i></a>
       <div class="contact-info">
         <i class="fas fa-envelope"></i> <!-- Envelope icon -->
-        <p style="display: inline-block; vertical-align: middle; margin-left: 5px;">Contact me at: zeinab.rahiimi@gmail.com</p>
+        <p style="display: inline-block; vertical-align: middle; margin-left: 5px;"><strong>Contact me at</strong>: zeinab.rahiimi@gmail.com</p>
       </div>
     </div>
+
+
+
+<!-- Last Update -->
+<p><strong>Last Update</strong>: <!-- Insert the current month and year dynamically using JavaScript -->
+<script>
+    const currentDate = new Date();
+    const monthYear = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'long' }).format(currentDate);
+    document.write(monthYear);
+</script></p>
 
 
