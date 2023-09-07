@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ✨ Zeinab Rahimi
+title:  Zeinab Rahimi
 ---
 
 <html lang="en-US">
@@ -101,8 +101,8 @@ title: ✨ Zeinab Rahimi
 
     <h2 style="color: #038e75;">Publications</h2>
   <ul style="list-style: none;">
-  <li> <strong>Rahimi, Z.</strong>, Amini Farsani, M., & Minaei Bidgoli, B. (2023). “Harnessing the Power of Sentiment Analysis and Authorial Voice to Enrich L2 Argumentative Writing Quality”. Submitted to the Journal of
-    </li>
+  <li> <strong>&#8226;Rahimi, Z.</strong>, Amini Farsani, M., & Minaei Bidgoli, B. (2023). “Harnessing the Power of Sentiment Analysis and Authorial Voice to Enrich L2 Argumentative Writing Quality”. Submitted to the Journal of </li>
+  <li> &#8226;Amini Farsani, M., <strong>Rahimi, Z.</strong> (2023). “Analyzing L2 Argumentative essays with Text Analysis Tools: A Longitudinal Study”. Ongoing Research </li>
   </ul>
 
 
@@ -114,7 +114,7 @@ title: ✨ Zeinab Rahimi
   </ul>
 </li>
   <li> <strong>&#8226; English Teaching</strong>, Iran Oxford Language Institute, August – September 2022 </li>
-  <li> <strong>&#8226;	Workshop Host</strong> at IUST Student Scientific Association of Foreign Languages Department, Iran University of Science and Technology, 2021- Present</li>
+  <li> <strong>&#8226;	Workshop Host</strong> at IUST Student Scientific Association of Foreign Languages Department, Iran University of Science and Technology, 2021- 2022</li>
   </ul>
 
     <h2 style="color: #038e75;">Volunteer Activities</h2>
@@ -170,8 +170,8 @@ title: ✨ Zeinab Rahimi
 <ul style="list-style: none;">
   <li><strong>&#8226; Data Analysis and Statistics</strong>
     <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 5px;">&#9702; SPSS</li>
-      <li style="margin-bottom: 5px;">&#9702; R Software (Text Mining, Sentiment Analysis)</li>
+      <li style="margin-bottom: 5px;">&#9702; SPSS ( ) </li>
+      <li style="margin-bottom: 5px;">&#9702; R Software (descriptive, correlation, t-test, and regression analyses, .... )</li>
     </ul>
   </li>
   <li><strong>&#8226; Data Visualization</strong>
@@ -181,18 +181,11 @@ title: ✨ Zeinab Rahimi
   </li>
   <li><strong>&#8226; Programming Languages</strong>
     <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 5px;">&#9702;Python (Text Mining by NLTK, Natural Language Toolkit)</li>
+      <li style="margin-bottom: 5px;">&#9702;Python (Natural Language Processing (NLP) tasks, including word frequency, concordancing, part-of-speech tagging, and basic use of regex and pandas) </li>
+      <li style="margin-bottom: 5px;">&#9702; R Software (Lexicon-based Sentiment Analysis; Text Mining tasks, including word frequency and wordcloud)</li>
     </ul>
   </li>
-  <li><strong>&#8226; Linguistic Analysis Tools</strong>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 5px;">&#9702; SEANCE (Sentiment Analysis and Cognition Engine)</li>
-      <li style="margin-bottom: 5px;">&#9702; TAALES (Tool for the Automatic Analysis of Lexical Sophistication)</li>
-      <li style="margin-bottom: 5px;">&#9702; TAACO (Tool for the Automatic Analysis of Cohesion)</li>
-      <li style="margin-bottom: 5px;">&#9702; TAALED (Tool for the Automatic Analysis of Lexical Diversity)</li>
-      <li style="margin-bottom: 5px;">&#9702; TAASSC (Tool for the Automatic Analysis of Syntactic Sophistication and Complexity)</li>
-
-    </ul>
+  <li><strong>&#8226; <a href="https://www.linguisticanalysistools.org/tools.html"> Text Analysis Tools</a> </strong> (SEANCE, TAALES, TAACO, TAALED, TAASSC)
   </li>
 </ul>
 
@@ -204,7 +197,7 @@ title: ✨ Zeinab Rahimi
  </ul>
 
 <h2 style="color: #038e75;">Hobbies</h2>
-<p style="color: #000;"> When I step away from the academic world, I often immerse myself in English Calligraphy, exercise, and the world of podcasts and audiobooks.</p>
+<p style="color: #000;"> When I step away from the academic world, I often immerse myself in hiking while enjoying listening to podcasts and, every now and then, in English calligraphy! </p>
 
 
 
@@ -222,7 +215,7 @@ title: ✨ Zeinab Rahimi
 
 
 <!-- Last Update -->
-<p><strong>Last Update</strong>: <!-- Insert the current month and year dynamically using JavaScript -->
+<p><strong>Last Updated</strong>: <!-- Insert the current month and year dynamically using JavaScript -->
 <script>
     const currentDate = new Date();
     const monthYear = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'long' }).format(currentDate);
