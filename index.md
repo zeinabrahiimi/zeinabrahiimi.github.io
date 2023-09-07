@@ -63,7 +63,7 @@ title:  Zeinab Rahimi
   <div class="main-content">
     <h1><strong style="color: #0056b3;">Zeinab Rahimi</strong></h1> <!-- Bold the name here and set color to darker dark blue -->
     <h2 style="color: #000;">Welcome!</h2>
-    <p style="color: #000;">I am Zeinab Rahimi, pursuing a Ph.D. position in Linguistics or Computational Linguistics. Here, I share information about my research interests and academic journey.</p>
+    <p style="color: #000;">I am Zeinab Rahimi, pursuing a Ph.D. position in Linguistics or Computational Linguistics. Here, I share information about my academic journey.</p>
     
     <h2 style="color: #038e75;">Research Interests</h2>
   <ul style="list-style: none;">
