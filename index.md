@@ -106,16 +106,39 @@ title:  Zeinab Rahimi
   </ul>
 
 
-      <h2 style="color: #038e75;">Work Experience</h2>
+    <h2 style="color: #038e75;">Research Interests</h2>
   <ul style="list-style: none;">
-<li> <strong>&#8226; Research Assistant</strong> under the supervision of Dr. Mohammad Amini Farsani, Foreign Languages Department, Iran University of Science and Technology, 2021- Present
-  <ul style="list-style: none; margin-left: 1rem;">
-    <li style="list-style-type: circle;">Text Mining and Sentiment Analysis using Python and R</li>
+  <li><strong>&#8226; Computational Linguistics</strong>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; NLP</li>
+      <li style="margin-bottom: 5px;">&#9702; Text Mining</li>
+    </ul>
+  </li>
+  <li><strong>&#8226; Linguistics</strong>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; Corpus Linguistics</li>
+      <li style="margin-bottom: 5px;">&#9702; L2 Quantitative Research</li>
+      <li style="margin-bottom: 5px;">&#9702; L2 Writing</li>
+    </ul>
+  </li>
+</ul>
+
+
+    <h2 style="color: #038e75;">Work Experience</h2>
+  <ul style="list-style: none;">
+<li><strong>&#8226; Research Assistant</strong> under the supervision of Dr. Mohammad Amini Farsani, Foreign Languages Department, Iran University of Science and Technology, 2021- 2022
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 5px;">&#9702; Text Mining and Sentiment Analysis using Python and R</li>
   </ul>
 </li>
-  <li> <strong>&#8226; English Teaching</strong>, Iran Oxford Language Institute, August – September 2022 </li>
-  <li> <strong>&#8226;	Workshop Host</strong> at IUST Student Scientific Association of Foreign Languages Department, Iran University of Science and Technology, 2021- 2022</li>
+<li> <strong>&#8226; Teaching Assistant</strong> under the supervision of Dr. Mohammad Amini Farsani, Foreign Languages Department, Iran University of Science and Technology, Fall 2022
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 5px;">&#9702; Text Analysis Tools in Linguistics Course (Hands-on experience and collaborative)</li>
   </ul>
+</li>
+<li> <strong>&#8226; English Teaching</strong>, Iran Oxford Language Institute, August – September 2022 </li>
+<li> <strong>&#8226;	Workshop Host</strong> at IUST Student Scientific Association of Foreign Languages Department, Iran University of Science and Technology, 2021- 2022</li>
+</ul>
 
     <h2 style="color: #038e75;">Volunteer Activities</h2>
   <ul style="list-style: none;">
@@ -170,8 +193,8 @@ title:  Zeinab Rahimi
 <ul style="list-style: none;">
   <li><strong>&#8226; Data Analysis and Statistics</strong>
     <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 5px;">&#9702; SPSS ( ) </li>
-      <li style="margin-bottom: 5px;">&#9702; R Software (descriptive, correlation, t-test, and regression analyses, .... )</li>
+      <li style="margin-bottom: 5px;">&#9702; SPSS (descriptive, correlation, t-test, ANOVA, and regression analyses) </li>
+      <li style="margin-bottom: 5px;">&#9702; R Software (data cleaning, organizing, transforming, and visualization using tidyverse and ggplot2 packages; descriptive, correlation, t-test, and regression analyses)</li>
     </ul>
   </li>
   <li><strong>&#8226; Data Visualization</strong>
@@ -181,7 +204,7 @@ title:  Zeinab Rahimi
   </li>
   <li><strong>&#8226; Programming Languages</strong>
     <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 5px;">&#9702;Python (Natural Language Processing (NLP) tasks, including word frequency, concordancing, part-of-speech tagging, and basic use of regex and pandas) </li>
+      <li style="margin-bottom: 5px;">&#9702;Python (Natural Language Processing (NLP) tasks, including word frequency, concordancing, part-of-speech tagging, morphosyntactic features, synonym set, and basic use of regex and pandas) </li>
       <li style="margin-bottom: 5px;">&#9702; R Software (Lexicon-based Sentiment Analysis; Text Mining tasks, including word frequency and wordcloud)</li>
     </ul>
   </li>
@@ -192,14 +215,16 @@ title:  Zeinab Rahimi
 <h2 style="color: #038e75;">Language</h2>
   <ul style="list-style: none;">
 <li>	&#8226; Persian (Native) </li>
-<li>	&#8226; <strong> English (TOFEL)</strong>: <strong>102 </strong> </li>
-<li>	&#8226; Spanish (Beginner) </li>
- </ul>
+<li>	&#8226; English (Fluent)
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 5px;">&#9702;TOEFL: 102 (R=28, L=25, S=23, W=26) </li>
+  </ul>
+  </li>
+  <li>	&#8226; Spanish (Beginner) </li>
+</ul>
 
 <h2 style="color: #038e75;">Hobbies</h2>
-<p style="color: #000;"> When I step away from the academic world, I often immerse myself in hiking while enjoying listening to podcasts and, every now and then, in English calligraphy! </p>
-
-
+<p style="color: #000;"> When I step away from the academic world, I often immerse myself in hiking while enjoying listening to podcasts, reading books with <a href="https://www.blinkist.com/en/content/daily"> Blinkist</a>, and, every now and then, in English calligraphy.</p>
 
 
 <!-- Social media links with Font Awesome icons -->
