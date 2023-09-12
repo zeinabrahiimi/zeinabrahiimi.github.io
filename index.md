@@ -102,27 +102,8 @@ title:  Zeinab Rahimi
     <h2 style="color: #038e75;">Publications</h2>
   <ul style="list-style: none;">
   <li> <strong>&#8226;Rahimi, Z.</strong>, Amini Farsani, M., & Minaei Bidgoli, B. (2023). “Harnessing the Power of Sentiment Analysis and Authorial Voice to Enrich L2 Argumentative Writing Quality”. Submitted to the Journal of </li>
-  <li> &#8226;Amini Farsani, M., <strong>Rahimi, Z.</strong> (2023). “Analyzing L2 Argumentative essays with Text Analysis Tools: A Longitudinal Study”. Ongoing Research </li>
+  <li> &#8226;Amini Farsani, M., <strong>Rahimi, Z.</strong> (2023). “Analyzing L2 Argumentative essays with Text Analysis Tools: A Longitudinal Study”. In Progress </li>
   </ul>
-
-
-    <h2 style="color: #038e75;">Research Interests</h2>
-  <ul style="list-style: none;">
-  <li><strong>&#8226; Computational Linguistics</strong>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 5px;">&#9702; NLP</li>
-      <li style="margin-bottom: 5px;">&#9702; Text Mining</li>
-    </ul>
-  </li>
-  <li><strong>&#8226; Linguistics</strong>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 5px;">&#9702; Corpus Linguistics</li>
-      <li style="margin-bottom: 5px;">&#9702; L2 Quantitative Research</li>
-      <li style="margin-bottom: 5px;">&#9702; L2 Writing</li>
-    </ul>
-  </li>
-</ul>
-
 
     <h2 style="color: #038e75;">Work Experience</h2>
   <ul style="list-style: none;">
@@ -224,7 +205,7 @@ title:  Zeinab Rahimi
 </ul>
 
 <h2 style="color: #038e75;">Hobbies</h2>
-<p style="color: #000;"> When I step away from the academic world, I often immerse myself in hiking while enjoying listening to podcasts, reading books with <a href="https://www.blinkist.com/en/content/daily"> Blinkist</a>, and, every now and then, in English calligraphy.</p>
+<p style="color: #000;"> When I step away from the academic world, I often immerse myself in hiking while listening to podcasts, reading books with <a href="https://www.blinkist.com/en/content/daily"> Blinkist</a>, and, every now and then, practicing English calligraphy.</p>
 
 
 <!-- Social media links with Font Awesome icons -->
