@@ -78,6 +78,7 @@ title:  Zeinab Rahimi
       <li style="margin-bottom: 5px;">&#9702; Corpus Linguistics</li>
       <li style="margin-bottom: 5px;">&#9702; L2 Quantitative Research Methodologies</li>
       <li style="margin-bottom: 5px;">&#9702; L2 Writing</li>
+      <li style="margin-bottom: 5px;">&#9702; L2 Assessment</li>
     </ul>
   </li>
 </ul>
@@ -172,14 +173,11 @@ title:  Zeinab Rahimi
 
 <h2 style="color: #038e75;">Technical Skills</h2>
 <ul style="list-style: none;">
-  <li><strong>&#8226; Data Analysis and Statistics</strong>
+  <li><strong>&#8226; Data Analysis, Statistics, and Data Visualization</strong>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; SPSS (descriptive, correlation, t-test, ANOVA, and regression analyses) </li>
       <li style="margin-bottom: 5px;">&#9702; R Software (data cleaning, organizing, transforming, and visualization using tidyverse and ggplot2 packages; descriptive, correlation, t-test, and regression analyses)</li>
-    </ul>
-  </li>
-  <li><strong>&#8226; Data Visualization</strong>
-    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; Prism (Descriptive, correlation, t tests, one-way ANOVA, linear and nonlinear regression) </li> 
       <li style="margin-bottom: 5px;">&#9702; Tableau Visualization Software</li>
     </ul>
   </li>
