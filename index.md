@@ -71,7 +71,7 @@ title:  Zeinab Rahimi
   <li>&#8226; Corpus Linguistics</li>
   <li>&#8226; L2 Assessment (with Text Analysis Tools and Programming languages) </li>
   <li>&#8226; L2 Writing</li>
-  <li>&#8226; L2 Quantitative Research Methodos</li>
+  <li>&#8226; L2 Quantitative Research Methods</li>
 </ul>
 
 
