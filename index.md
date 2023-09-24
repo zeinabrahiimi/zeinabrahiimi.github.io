@@ -130,7 +130,7 @@ title:  Zeinab Rahimi
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; You can find the code in my <a href="https://github.com/zeinabrahiimi/Sentiment-Analysis-with-R-Applied-Linguistics"> Sentiment-Analysis-with-R-Applied-Linguistics GitHub repository</a>.</li>
     </ul> 
-  <li>&#8226;	Developed"<strong><em>Text Mining with Python Using NLTK library for Applied Linguistics</em></strong>" Project (August 2023)</li>
+  <li>&#8226;	Developed"<strong><em>Text Mining with Python Using NLTK and spaCy libraries for Applied Linguistics</em></strong>" Project (August 2023)</li>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; You can find the code in my <a href="https://github.com/zeinabrahiimi/Text-Mining-with-Python-Applied-Linguistics"> Text-Mining-with-Python-Applied-Linguistics GitHub repository</a>.</li>
     </ul> 
