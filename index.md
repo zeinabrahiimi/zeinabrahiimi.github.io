@@ -165,11 +165,12 @@ title:  Zeinab Rahimi
 
 <h2 style="color: #038e75;">Technical Skills</h2>
 <ul style="list-style: none;">
-  <li><strong>&#8226; Data Analysis, Statistics, and Data Visualization</strong>
+  <li><strong>&#8226; Data Analysis, Statistics, Data Visualization, and Corpus Analysis Tools</strong>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; SPSS (descriptive, correlation, t-test, ANOVA, and multiple regression, hierarchical clustering, and visualization) </li>
       <li style="margin-bottom: 5px;">&#9702; R Software (data cleaning, organizing, transforming, and visualization using tidyverse and ggplot2 packages; descriptive, correlation, t-test, ANOVA, ANCOVA, and multiple regression analysis)</li>
-      <li style="margin-bottom: 5px;">&#9702; Tableau Visualization Software</li>
+      <li style="margin-bottom: 5px;">&#9702; Tableau </li>
+      <li style="margin-bottom: 5px;">&#9702; AntConc</li>
     </ul>
   </li>
   <li><strong>&#8226; Programming Languages</strong>
