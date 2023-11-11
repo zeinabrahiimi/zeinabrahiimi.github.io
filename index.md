@@ -134,7 +134,7 @@ title:  Zeinab Rahimi
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; You can find the code in my <a href="https://github.com/zeinabrahiimi/Text-Mining-with-Python-Applied-Linguistics"> Text-Mining-with-Python-Applied-Linguistics GitHub repository</a>.</li>
     </ul> 
-  <li>&#8226; Host for an upcoming "<strong><em>Inferential Statistical Tests and Linguistic Analysis with R and Python</em></strong>" Workshop at IUST Student Scientific Association of Foreign Languages Department (October 2023)</li>
+  <li>&#8226; Host for an upcoming "<strong><em>Inferential Statistical Tests and Linguistic Analysis with R and Python</em></strong>" Workshop at IUST Student Scientific Association of Foreign Languages Department (November 2023)</li>
   
   </ul>
 
