@@ -210,12 +210,5 @@ title:  Zeinab Rahimi
 
 
 
-<!-- Last Update -->
-<p><strong>Last Updated</strong>: <!-- Insert the current month and year dynamically using JavaScript -->
-<script>
-    const currentDate = new Date();
-    const monthYear = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'long' }).format(currentDate);
-    document.write(monthYear);
-</script></p>
 
 
