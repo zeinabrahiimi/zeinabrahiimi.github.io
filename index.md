@@ -110,7 +110,7 @@ title:  Zeinab Rahimi
   </ul>
 </li>
 <li> <strong>&#8226; English Teacher</strong>, Iran Oxford Language Institute, August 2022 - September 2022 </li>
-<li> <strong>&#8226;	Workshop Presenter</strong> at IUST Student Scientific Association of Foreign Languages Department, Iran University of Science and Technology, 2021- Present</li>
+<li> <strong>&#8226;	Workshop Presenter</strong> at IUST Student Scientific Association of Foreign Languages Department, Iran University of Science and Technology, 2021- March 2024</li>
 </ul>
 
     <h2 style="color: #038e75;">Volunteer Activities</h2>
