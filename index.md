@@ -69,7 +69,10 @@ title:  Zeinab Rahimi
 
 <div style="display: inline-flex; align-items: center; gap: 18px; margin-bottom: 16px;">
 
-<img src="/assets/img/IMG_3434.jpg" alt="Zeinab Rahimi" style="width:120px;height:120px;object-fit:cover;border-radius:10px;" />
+<img src="/assets/img/IMG_3434.jpg"
+     alt="Zeinab Rahimi"
+     style="width:120px;height:120px;object-fit:contain;border-radius:10px;background:#fff;border:1px solid #ddd;" />
+
 
 <h1 style="margin:0;">
 <strong style="color:#0056b3;">Zeinab Rahimi</strong>
