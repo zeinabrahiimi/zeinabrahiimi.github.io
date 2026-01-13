@@ -61,9 +61,25 @@ title:  Zeinab Rahimi
 </head>
 <body>
   <div class="main-content">
-    <h1><strong style="color: #0056b3;">Zeinab Rahimi</strong></h1> <!-- Bold the name here and set color to darker dark blue -->
-    <h2 style="color: #000;">Welcome!</h2>
-    <p style="color: #000;">I am a Ph.D. student in Linguistics at University of Oregon.</p>
+<div class="main-content">
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<img src="./assets/css/img/IMG_3434.jpg"
+     alt="Zeinab Rahimi"
+     style="width: 150px; border-radius: 10px;" />
+
+<div>
+  <h1><strong style="color: #0056b3;">Zeinab Rahimi</strong></h1>
+  <h2 style="color: #000;">Welcome!</h2>
+  <p style="color: #000;">
+    I am a Ph.D. student in Linguistics at the University of Oregon.
+  </p>
+</div>
+
+</div>
+
+
     
     <h2 style="color: #038e75;">Research Interests</h2>
   <ul style="list-style: none;">
