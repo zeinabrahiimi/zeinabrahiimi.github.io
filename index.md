@@ -63,20 +63,25 @@ title:  Zeinab Rahimi
   <div class="main-content">
     <h1><strong style="color: #0056b3;">Zeinab Rahimi</strong></h1> <!-- Bold the name here and set color to darker dark blue -->
     <h2 style="color: #000;">Welcome!</h2>
-    <p style="color: #000;">I am seeking a Ph.D. position in Linguistics or Computational Linguistics for Fall 2024. Here, I share information about my academic journey.</p>
+    <p style="color: #000;">I am a Ph.D. student in Linguistics at University of Oregon.</p>
     
     <h2 style="color: #038e75;">Research Interests</h2>
   <ul style="list-style: none;">
-  <li>&#8226; Computational Linguistics (NLP and Text Mining)</li>
   <li>&#8226; Corpus Linguistics</li>
   <li>&#8226; L2 Assessment (with Text Analysis Tools and Programming Languages) </li>
-  <li>&#8226; L2 Writing</li>
-  <li>&#8226; L2 Quantitative Research Methods</li>
+  <li>&#8226; L2 Writing and Speaking</li>
+  <li>&#8226; Lexical & Grammatical Complexity</li>
 </ul>
 
 
     <h2 style="color: #038e75;">Education</h2>
   <ul style="list-style: none;">
+    <li>
+    <strong>&#8226; Ph.D.</strong> in <strong>Linguistics</strong>, University of Oregon, OR, USA, 2024–Present
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; Focus: Second Language Assessment, Lexical & Grammatical Complexity</li>
+    </ul>
+  </li>
   <li><strong>&#8226;	M.Sc.</strong> in <strong>TEFL</strong>, Iran University of Science and Technology (IUST), Tehran, Iran, 2020-2022
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">&#9702; <strong>Overall GPA</strong>: 18.27/20 (<strong>4</strong>/4)</li>
@@ -91,14 +96,15 @@ title:  Zeinab Rahimi
   </ul>
 
 
-    <h2 style="color: #038e75;">Publications</h2>
-  <ul style="list-style: none;">
-  <li> <strong>&#8226; Rahimi, Z.</strong>, Amini Farsani, M., & Minaei Bidgoli, B. (2023). “Harnessing the Power of Sentiment Analysis and Authorial Voice to Enrich L2 Argumentative Writing Quality”. <em>Journal of English Teaching and Learning</em>. Under Review </li>
-  <li> &#8226; Amini Farsani, M., <strong>Rahimi, Z.</strong> (2023). “Analyzing L2 Argumentative Essays with Text Analysis Tools: A Longitudinal Study”. In Progress </li>
-  </ul>
-
     <h2 style="color: #038e75;">Work Experience</h2>
   <ul style="list-style: none;">
+
+<li>
+    <strong>&#8226; Graduate Employee (GE)</strong>, Department of Linguistics, University of Oregon, Eugene, OR, USA, September 2024–Present
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 5px;">&#9702; Teaching Assistant for linguistics courses</li>
+    </ul>
+</li> 
 <li><strong>&#8226; Research Assistant</strong> under the supervision of Dr. Mohammad Amini Farsani, Foreign Languages Department, Iran University of Science and Technology, August 2021- August 2023
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 5px;">&#9702; Text Mining and Sentiment Analysis using Python and R</li>
