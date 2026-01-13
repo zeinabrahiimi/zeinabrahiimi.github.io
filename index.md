@@ -83,8 +83,6 @@ title:  Zeinab Rahimi
 
 </div>
 
-</div>
-
 
     
     <h2 style="color: #038e75;">Research Interests</h2>
