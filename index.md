@@ -60,14 +60,14 @@ title:  Zeinab Rahimi
   </style>
 </head>
 <body>
-  <div class="main-content">
+
 <div class="main-content">
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-<img src="./assets/css/img/IMG_3434.jpg"
-     alt="Zeinab Rahimi"
-     style="width: 150px; border-radius: 10px;" />
+<img src="/assets/img/IMG_3434.jpg" alt="Zeinab Rahimi" style="width:150px;border-radius:10px;" />
+
+
 
 <div>
   <h1><strong style="color: #0056b3;">Zeinab Rahimi</strong></h1>
