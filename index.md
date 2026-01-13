@@ -81,8 +81,6 @@ title:  Zeinab Rahimi
   I am a Ph.D. student in Linguistics at the University of Oregon.
 </p>
 
-</div>
-
 
     
     <h2 style="color: #038e75;">Research Interests</h2>
