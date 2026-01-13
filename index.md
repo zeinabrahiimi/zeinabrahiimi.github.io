@@ -63,18 +63,24 @@ title:  Zeinab Rahimi
 
 <div class="main-content">
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 18px; margin-bottom: 18px;">
 
-<img src="/assets/img/IMG_3434.jpg" alt="Zeinab Rahimi" style="width:150px;border-radius:10px;" />
+  <img src="/assets/img/IMG_3434.jpg"
+       alt="Zeinab Rahimi"
+       style="width: 120px; height: 120px; object-fit: cover; border-radius: 10px;" />
 
+  <h1 style="margin: 0;">
+    <strong style="color: #0056b3;">Zeinab Rahimi</strong>
+  </h1>
 
+</div>
 
-<div>
-  <h1><strong style="color: #0056b3;">Zeinab Rahimi</strong></h1>
-  <h2 style="color: #000;">Welcome!</h2>
-  <p style="color: #000;">
-    I am a Ph.D. student in Linguistics at the University of Oregon.
-  </p>
+<h2 style="color: #000; margin: 0 0 10px 0;">Welcome!</h2>
+
+<p style="color: #000; margin: 0;">
+  I am a Ph.D. student in Linguistics at the University of Oregon.
+</p>
+
 </div>
 
 </div>
