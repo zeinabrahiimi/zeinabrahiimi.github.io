@@ -67,7 +67,8 @@ title:  Zeinab Rahimi
 
 <div style="text-align: center; margin-bottom: 40px;">
 
-<div style="display: inline-flex; align-items: center; gap: 18px; margin-bottom: 16px;">
+<div style="display:inline-flex; align-items:center; gap:8px;">
+
 
 <img src="/assets/img/IMG_3434.jpg"
      alt="Zeinab Rahimi"
