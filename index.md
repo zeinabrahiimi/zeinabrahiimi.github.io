@@ -71,7 +71,8 @@ title:  Zeinab Rahimi
 
 <img src="/assets/img/IMG_3434.jpg"
      alt="Zeinab Rahimi"
-     style="width:120px;height:120px;object-fit:contain;border-radius:10px;background:#fff;border:1px solid #ddd;" />
+     style="width:120px; height:auto; border-radius:10px;" />
+
 
 
 <h1 style="margin:0;">
